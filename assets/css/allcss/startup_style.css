@@ -1327,7 +1327,7 @@ a.dtbtn:hover {
     border-width: 1px 0 0;
     border-color: #ddd;
     transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;
-    padding: 100px 0 70px;
+    /* padding: 100px 0 70px; */
 }
 .skill_content_inner .witr_section_title {
     margin-bottom: 25px;
