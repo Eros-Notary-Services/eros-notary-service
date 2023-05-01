@@ -1080,7 +1080,7 @@ a.dtbtn:hover {
 }
 /* ===== 5. Tab Area CSS ===== */
 .startup_tab_area {
-    margin-top: -115px;
+    /* margin-top: -115px; */
     margin-bottom: 0;
     padding: 0 0 100px;
     background-color:#BCC9BA;
