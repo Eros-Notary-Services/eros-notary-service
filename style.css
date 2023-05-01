@@ -14,6 +14,10 @@ Author Name: WPEXPERT
     margin-top: 28px;
 
 }
+#scrollUp {
+
+    right: 15px !important;
+}
 .about-header {
     margin-top: 15px;
 }
